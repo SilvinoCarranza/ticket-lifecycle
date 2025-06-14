@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" />
 </p>
@@ -50,15 +51,18 @@
   <li><strong>Ticket 1:</strong> Sev-A (1hr, 24/7) — Department: Online Banking<br />Note: Observe if ticket becomes inaccessible after escalation.</li>
   <li><strong>Ticket 2:</strong> Sev-B (4hr, 24/7) — Department: Support</li>
   <li><strong>Ticket 3:</strong> Sev-B (4hr, 24/7) — Department: Support</li>
-  Too assign SLA click on defult SLA and assign the approptiate SLA
-  Too assign a help topick click the link nect to help topic
-  Too assign a agent or team click on unassigned assign too
 </ul>
 
+<p>
+  To assign an SLA, click on the "Default SLA" and select the appropriate one.<br />
+  To assign a Help Topic, click the link next to "Help Topic."<br />
+  To assign an agent or team, click on "Unassigned" and select the appropriate assignee.
+</p>
+
 <p align="center">
-  <img src="https://i.imgur.com/RuH4u0Z.png" width="80%" alt="Ticket Assignment" />
-   <img src="https://i.imgur.com/BKNPDk9.png" width="80%" alt="Ticket Assignment" />
-   <img src="https://i.imgur.com/TCwXxxz.png" width="80%" alt="Ticket Assignment" />
+  <img src="https://i.imgur.com/RuH4u0Z.png" width="80%" alt="Assign SLA" />
+  <img src="https://i.imgur.com/BKNPDk9.png" width="80%" alt="Assign Help Topic" />
+  <img src="https://i.imgur.com/TCwXxxz.png" width="80%" alt="Assign Agent or Team" />
 </p>
 
 <h2>Step 3: Work Tickets to Completion</h2>
@@ -66,8 +70,11 @@
   <li>Ticket 1: Resolved by Jane</li>
   <li>Ticket 2: Resolved by John</li>
   <li>Ticket 3: Resolved by John</li>
-  Too resolve a ticket click on the link next to status then resolve
 </ul>
+
+<p>
+  To resolve a ticket, click the link next to "Status" and select "Resolved."
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/j8d8sh4.png" width="80%" alt="Ticket Resolution" />
@@ -80,9 +87,8 @@
 
 <h3>Real-World Intake</h3>
 <p>
-  Tickets can be created through phone calls, chat apps, email, web forms, or even casual hallway conversations.  
-  It’s okay to fix things on the spot, but you should always create a ticket to track work for reporting and metrics.
+  Tickets can be created through phone calls, chat apps, email, web forms, or even casual hallway conversations.<br />
+  It's okay to help immediately, but you should always create a ticket to track work for reporting and metrics.
 </p>
-
 
 
