@@ -34,12 +34,10 @@
   <li><strong>Admin/Analyst Login:</strong> <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
   <li><strong>End User Portal:</strong> <a href="http://localhost/osTicket">http://localhost/osTicket</a></li>
 </ul>
-
-<h2>Step 1: Create Tickets as End-User (Karen or Ken)</h2>
+We will be creating a sample ticket as a end user (Karen or Ken) then assigning as a agent (Jane or John) and resolving as a agent(Jane or John).
+<h2>Step 1: Create a Ticket as End-User (Karen or Ken)</h2>
 <ul>
-  <li>Ticket 1: “Entire mobile/online banking system is down.”</li>
-  <li>Ticket 2: “Accounting department needs Adobe upgrade; currently broken.”</li>
-  <li>Ticket 3: “CFO’s laptop will no longer turn on.”</li>
+  <li>Ticket: “Entire mobile/online banking system is down.”</li>
 </ul>
 
 <p align="center">
@@ -49,8 +47,6 @@
 <h2>Step 2: Assign Properties as Help Desk Agent (John)</h2>
 <ul>
   <li><strong>Ticket 1:</strong> Sev-A (1hr, 24/7) — Department: Online Banking<br />Note: Observe if ticket becomes inaccessible after escalation.</li>
-  <li><strong>Ticket 2:</strong> Sev-B (4hr, 24/7) — Department: Support</li>
-  <li><strong>Ticket 3:</strong> Sev-B (4hr, 24/7) — Department: Support</li>
 </ul>
 
 <p>
@@ -65,21 +61,33 @@
   <img src="https://i.imgur.com/TCwXxxz.png" width="80%" alt="Assign Agent or Team" />
 </p>
 
-<h2>Step 3: Work Tickets to Completion</h2>
+<h2>Step 3: Work Ticket to Completion</h2>
+As jane who is a part of the online banking team you can either assign the ticket to yourself or leave it in the online banking team. for this exsample we are assigning it to jane and adding a comment as if we are talking to are team.
+  <img src="https://i.imgur.com/XeLtMZi.png" width="80%" alt="Ticket Resolution" />
+</p>
+ you can add comments to keep your team updated on progress of the ticket.
+ 
+ 
+ <img src="https://i.imgur.com/8vxuX9X.png" width="80%" alt="Ticket Resolution" />
+ 
 <ul>
-  <li>Ticket 1: Resolved by Jane</li>
-  <li>Ticket 2: Resolved by John</li>
-  <li>Ticket 3: Resolved by John</li>
+ As this is a exsample we are going to pretend we check the system found that the new update to the system is whats cuaseing the issues and we are rolling back the update.
+</p>
+  <img src="https://i.imgur.com/Mk2gCRV.png" width="80%" alt="Ticket Resolution" />
+</p>
+  <li>
 </ul>
 
+<p align="center">
+
+Now set the ticket to resolved
+Ticket: Resolved by Jane</li>
 <p>
   To resolve a ticket, click the link next to "Status" and select "Resolved."
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/j8d8sh4.png" width="80%" alt="Ticket Resolution" />
+<img src="https://i.imgur.com/j8d8sh4.png" width="80%" alt="Ticket Resolution" />
 </p>
-
+  
 <h2>Best Practices & Reminders</h2>
 
 <h3>Email Functionality</h3>
